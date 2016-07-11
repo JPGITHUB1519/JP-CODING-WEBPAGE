@@ -1,0 +1,77 @@
+<div class="col-md-10 gradiante-2 quitar-float center-block">
+
+  	<!--Fila 1-->
+
+  	<div class="col-md-12 inline-block center-block">
+
+  	  <article class="col-md-2 text-center gradiante-3 inline-block">
+
+  	    <h1>1</h1>
+  	  	
+  	  </article>
+
+
+  	  <article class="col-md-2 text-center gradiante-3 inline-block espacito-izquierda">
+
+  	    <h1>2</h1>
+  	  	
+  	  </article>
+
+  	  <article class = "col-md-2 inline-block text-center gradiante-3 espacito-izquierda">
+
+  	    <h1>3</h1>
+  	  	
+  	  </article>
+
+  	  <article class = "col-md-2 inline-block text-center gradiante-3 espacito-izquierda">
+
+  	    <h1>4</h1>
+  	  	
+  	  </article>
+
+  	  <article class = "col-md-2 inline-block text-center gradiante-3 espacito-izquierda">
+
+  	    <h1>5</h1>
+  	  	
+  	  </article>
+
+
+  		
+  	</div>
+
+  	<!--fila 2-->
+
+  	<div  style ="margin-bottom : 10px;"class="col-md-12 inline-block center-block">
+
+  	    <article class = "col-md-2  inline-block text-center gradiante-3 espacito-arriba">
+
+  	       <h1>6</h1>
+  	  	
+  	    </article>
+
+  	    <article class = "col-md-2 inline-block text-center gradiante-3 espacito-arriba espacito-izquierda">
+
+  	       <h1>7</h1>
+  	  	
+  	    </article>
+
+  	    <article class = "col-md-2 inline-block text-center gradiante-3 espacito-arriba espacito-izquierda">
+
+  	       <h1>8</h1>
+  	  	
+  	    </article>
+
+  	    <article class = "col-md-2 inline-block text-center gradiante-3 espacito-arriba espacito-izquierda">
+
+  	       <h1>9</h1>
+  	  	
+  	    </article>
+
+  	    <article class = "col-md-2 inline-block text-center gradiante-3 espacito-arriba espacito-izquierda">
+
+  	       <h1>10</h1>
+  	  	
+  	    </article>
+
+
+  	</div>
